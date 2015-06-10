@@ -2,7 +2,7 @@
 
 A evaluate wrapper for Hubots.
 
-[![Build Status](https://travis-ci.org/hubot-scripts/hubot-evaluate.png)](https://travis-ci.org/hubot-scripts/hubot-evaluate)
+[![Build Status](http://img.shields.io/travis/pgilad/hubot-evaluate.svg?style=flat)](https://travis-ci.org/pgilad/hubot-evaluate)
 
 See [`src/evaluate.coffee`](src/evaluate.coffee) for full documentation.
 
